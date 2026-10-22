@@ -1,0 +1,13 @@
+# Arquivos de configuração com credenciais
+config.php
+
+# Dependências e arquivos temporários
+vendor/
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
